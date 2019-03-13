@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".PagInicio"
-    android:background="#6746c3">
+    android:background="#4a148c">
 
     <ImageButton
         android:id="@+id/peso"
